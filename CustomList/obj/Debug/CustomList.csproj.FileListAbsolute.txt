@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CustomList\CustomList\bin\Debug\CustomList.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CustomList\CustomList\bin\Debug\CustomList.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CustomList\CustomList\bin\Debug\CustomList.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CustomList\CustomList\obj\Debug\CustomList.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CustomList\CustomList\obj\Debug\CustomList.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CustomList\CustomList\obj\Debug\CustomList.pdb
