@@ -12,7 +12,7 @@ namespace CustomList
         {
             CustomList list = new CustomList();
 
-            list.OnAdd += (new PerformListOperation(OnAddEventHandler));
+            list.OnAdd += OnAddEventHandler; // == list.OnAdd += (new PerformListOperation(OnAddEventHandler));
 
             list.OnContains += (result) =>
             {

@@ -27,7 +27,7 @@ namespace GenericList
 
             set
             {
-                this.SetelementByIndex(index, value);
+                this.SetElementByIndex(index, value);
             }
         }
 
@@ -46,7 +46,7 @@ namespace GenericList
             }
         }
 
-        public void SetelementByIndex(int index, T value)
+        public void SetElementByIndex(int index, T value)
         {
             if (index >= 0 && index < this.array.Length)
             {
